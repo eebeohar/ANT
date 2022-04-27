@@ -1,2 +1,3 @@
 # ANT
-An archive of programming assignments and my solutions (as they were submitted) for the Advanced Numerical Techniques lab in during the last semester of MSc. (2021) Physics at Delhi University. I will be trying to replicate the codes in py and also improve upon them. Students currently enrolled in the ANT-lab at DU might find it useful. Suggestions are welcomed. Note that I will not be uploading solutions for the IA or final exam however if you're stuck anywhere, feel free to contact me.
+An archive of some of the programming assignments I found interesting and my solutions (as they were submitted) for the Advanced Numerical Techniques lab in during the last semester of MSc. (2021) Physics at Delhi University. I will be trying to replicate the codes in py and also improve upon them. Students currently enrolled in the ANT-lab at DU might find it useful. Suggestions are welcomed. 
+Note: Graphs and outputs are attached as issues.
